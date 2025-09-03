@@ -17,6 +17,7 @@ Describe the problem or limitation you're currently experiencing.
 ## Use Case
 
 **Who would benefit from this feature?**
+
 - [ ] Individual developers
 - [ ] Team leads/managers
 - [ ] Azure DevOps administrators
@@ -48,12 +49,14 @@ How should this work with existing Azure DevOps or Teams features?
 ## Priority and Impact
 
 **How important is this feature to you?**
+
 - [ ] Nice to have
 - [ ] Would improve efficiency
 - [ ] Critical for our workflow
 - [ ] Blocking our adoption
 
 **Estimated impact:**
+
 - [ ] Would save us significant time
 - [ ] Would improve user experience
 - [ ] Would reduce errors/confusion

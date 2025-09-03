@@ -8,14 +8,14 @@ assignees: []
 
 ## Organization Information
 
-**Azure DevOps Organization Name:** 
-**Organization URL:** https://dev.azure.com/[YOUR-ORG]
-**Primary Contact Email:** 
-**Contact Name:** 
+**Azure DevOps Organization Name:**
+**Organization URL:** <https://dev.azure.com/[YOUR-ORG]>
+**Primary Contact Email:**
+**Contact Name:**
 
 ## Team Information
 
-**Approximate number of users:** 
+**Approximate number of users:**
 **Primary use case:** (e.g., Sprint planning, Bug triage, Feature development)
 **Team structure:** (e.g., Multiple scrum teams, Single team, Cross-functional teams)
 
@@ -44,7 +44,9 @@ assignees: []
 ---
 
 ### ✅ Next Steps
+
 Once submitted, we'll review your request and typically respond within 1-2 business days with:
+
 - Access approval and marketplace sharing
 - Setup guidance and documentation links
 - Direct contact for ongoing support
